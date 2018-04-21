@@ -1,0 +1,18 @@
+{
+  "name": "axa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --ui tdd",
+    "start": "node src/index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-plugin-mocha": "^5.0.0",
+    "mocha": "^5.1.1"
+  }
+}
