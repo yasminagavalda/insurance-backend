@@ -26,3 +26,5 @@ To the policies enpoint yo can add one of the following query params:
 Examples of use:
 - http://localhost:8080/user?id=a3b8d425-2b60-4ad7-becc-bedf2ef860bd
 - http://localhost:8080/policies?username=Britney
+
+This repository includes tests of two methods. To run the tests do npm test.
