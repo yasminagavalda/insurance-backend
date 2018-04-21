@@ -10,8 +10,8 @@ You have to authenticate to be authorized. You can authenticate yourself includi
 
 There are two different enpoints depending if you want information about users or policies:
 
-http://localhost:8080/user
-http://localhost:8080/policies
+- http://localhost:8080/user
+- http://localhost:8080/policies
 
 To this two endpoints you can add query params to filter the results.
 
