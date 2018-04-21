@@ -24,5 +24,5 @@ To the policies enpoint yo can add one of the following query params:
 - 'username': to filter by user name
 
 Examples of use:
-http://localhost:8080/user?id=a3b8d425-2b60-4ad7-becc-bedf2ef860bd
-http://localhost:8080/policies?username=Britney
+- http://localhost:8080/user?id=a3b8d425-2b60-4ad7-becc-bedf2ef860bd
+- http://localhost:8080/policies?username=Britney
